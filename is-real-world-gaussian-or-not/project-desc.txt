@@ -1,0 +1,1 @@
+visualize and analyze data of real world properties (gold value, war casualties and frequencies, gene dispersion, etc.) to see it's characteristics which firstly derive from one simple answer to whether it is fat tailed or gaussian.

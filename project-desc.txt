@@ -1,0 +1,1 @@
+This project is based on Nassim Taleb's work: Incerto, Technical Incerto, and Probability Moocs (on YT). My attempt is to make the concepts intuitive by visualizing it and tinkering with it using programming and statistical tools. 
