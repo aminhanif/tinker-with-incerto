@@ -1,0 +1,1 @@
+demonstrate visually how Law of Large Number (LLM) work in Gaussian distribution and fat tailed distribution (large difference between them!)
